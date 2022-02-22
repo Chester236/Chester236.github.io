@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>数据库基础</title>
+    <link href="/2022/02/22/tow/"/>
+    <url>/2022/02/22/tow/</url>
+    
+    <content type="html"><![CDATA[<h1 id="DDL-数据库操作"><a href="#DDL-数据库操作" class="headerlink" title="DDL 数据库操作"></a>DDL 数据库操作</h1><hr><h3 id="查询"><a href="#查询" class="headerlink" title="查询"></a>查询</h3><h4 id="查询所有库"><a href="#查询所有库" class="headerlink" title="查询所有库"></a>查询所有库</h4><p>==show datebases;==</p><h5 id="查询当前数据库"><a href="#查询当前数据库" class="headerlink" title="查询当前数据库"></a>查询当前数据库</h5><p>==select database();==</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>第一条</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>快来评论区踩一jio</title>
     <link href="/2022/01/24/one/"/>
     <url>/2022/01/24/one/</url>
